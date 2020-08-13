@@ -26,6 +26,7 @@ Please write an API that mimics the shopify API using the following specificatio
 3. There are tags (e.g. 'women over 30', 'men under 25', etc). They are applied to stores to specify their category (only one can be set). They are also applied to a user to specify their preferences (many can be applied).
 4. No frontend code required, only backend.
 5. No auth code needed; assume anonymous users can do everything.
+6. No need to deploy this anywhere. Run it locally.
 
 ## Test cases
 
@@ -38,7 +39,7 @@ Please write an API that mimics the shopify API using the following specificatio
 
 ## Procedure
 
-1. Create a branch, write your code, and submit a PR with the output for the test cases above.
+Create a branch, write your code, and submit a PR with the output for the test cases above.
 
 ## Bonus
 
